@@ -3,6 +3,8 @@
 https://alxprd.github.io
 
 ![example workflow](https://github.com/alxprd/alxprd/actions/workflows/test.yml/badge.svg)
+![example branch parameter](https://github.com/alxprd/alxprd/actions/workflows/test.yml/badge.svg?branch=main)
+![example event parameter](https://github.com/alxprd/alxprd/actions/workflows/test.yml/badge.svg?event=push)
 
 <!--
 **alxprd/alxprd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
